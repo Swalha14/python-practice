@@ -7,6 +7,7 @@ def sum_list_numbers(numbers):
 #Testing the function
 list_of_numbers = [1, 2, 3, 4, 5]
 print("Total sum is",sum_list_numbers(list_of_numbers))
+
 """Calling the function and passing the numbers list to it.
 The final output is the sum of the numbers which is 15."""
 
